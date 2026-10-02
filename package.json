@@ -1,0 +1,13 @@
+{
+  "name": "proxy",
+  "private": true,
+  "scripts": {
+    "start": "bun run main.mjs"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}
